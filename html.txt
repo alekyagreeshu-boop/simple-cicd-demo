@@ -1,5 +1,0 @@
-<html>
-<body>
-<h1>this is alekya</h1>
-</body>
-</html>
